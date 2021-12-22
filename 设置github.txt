@@ -1,0 +1,7 @@
+设置git：https://www.cnblogs.com/duanming/p/11830251.html 
+git上传：https://blog.csdn.net/inthuixiang/article/details/78568474 
+git常用命令： git add . 【提交文件】 
+ 	     git commit -m '描述' 【生成描述】 
+ 	     git push origin main/master 【推送服务器】 
+	     git branch -a 【查看所有分支】 
+ 	     git checkout 【分支名称】 
