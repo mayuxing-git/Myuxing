@@ -1,0 +1,39 @@
+[2021-12-03 16:28:52.908586] [INFO] [main_run.py] [run_mian] [28] 当前测试数据为《中文 字母》数据
+[2021-12-03 16:28:52.912362] [INFO] [handle_keyboard.py] [key_mapping] [18] 布局：基础布局
+[2021-12-03 16:28:53.425582] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['`~'] 键映射异常：预期结果` -> 实际结果
+[2021-12-03 16:29:00.139791] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['q'] 键映射异常：预期结果q -> 实际结果去
+[2021-12-03 16:29:00.660641] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['w'] 键映射异常：预期结果w -> 实际结果我
+[2021-12-03 16:29:01.173253] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['e'] 键映射异常：预期结果e -> 实际结果额
+[2021-12-03 16:29:01.691390] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['r'] 键映射异常：预期结果r -> 实际结果人
+[2021-12-03 16:29:02.203772] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['t'] 键映射异常：预期结果t -> 实际结果他
+[2021-12-03 16:29:02.717914] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['y'] 键映射异常：预期结果y -> 实际结果有
+[2021-12-03 16:29:04.262924] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['o'] 键映射异常：预期结果o -> 实际结果哦
+[2021-12-03 16:29:04.776170] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['p'] 键映射异常：预期结果p -> 实际结果屏
+[2021-12-03 16:29:05.290103] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['a'] 键映射异常：预期结果a -> 实际结果啊
+[2021-12-03 16:29:05.806884] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['s'] 键映射异常：预期结果s -> 实际结果是
+[2021-12-03 16:29:06.321456] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['d'] 键映射异常：预期结果d -> 实际结果的
+[2021-12-03 16:29:06.832543] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['f'] 键映射异常：预期结果f -> 实际结果非
+[2021-12-03 16:29:07.350812] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['g'] 键映射异常：预期结果g -> 实际结果个
+[2021-12-03 16:29:07.864928] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['h'] 键映射异常：预期结果h -> 实际结果好
+[2021-12-03 16:29:08.380226] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['j'] 键映射异常：预期结果j -> 实际结果就
+[2021-12-03 16:29:08.895214] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['k'] 键映射异常：预期结果k -> 实际结果看
+[2021-12-03 16:29:09.411049] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['l'] 键映射异常：预期结果l -> 实际结果了
+[2021-12-03 16:29:09.925118] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['z'] 键映射异常：预期结果z -> 实际结果在
+[2021-12-03 16:29:10.444622] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['x'] 键映射异常：预期结果x -> 实际结果想
+[2021-12-03 16:29:10.958635] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['c'] 键映射异常：预期结果c -> 实际结果串
+[2021-12-03 16:29:11.991034] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['b'] 键映射异常：预期结果b -> 实际结果吧
+[2021-12-03 16:29:12.507513] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['n'] 键映射异常：预期结果n -> 实际结果你
+[2021-12-03 16:29:13.019835] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['m'] 键映射异常：预期结果m -> 实际结果吗
+[2021-12-03 16:29:15.036772] [INFO] [handle_keyboard.py] [key_mapping] [31] 布局：shift布局
+[2021-12-03 16:29:16.070293] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['1!'] 键映射异常：预期结果! -> 实际结果！ 
+[2021-12-03 16:29:17.620790] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['4$'] 键映射异常：预期结果$ -> 实际结果￥ 
+[2021-12-03 16:29:18.652066] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['6^'] 键映射异常：预期结果^ -> 实际结果…… 
+[2021-12-03 16:29:20.194725] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['9('] 键映射异常：预期结果( -> 实际结果（） 
+[2021-12-03 16:29:20.711924] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['0)'] 键映射异常：预期结果) -> 实际结果） 
+[2021-12-03 16:29:21.225514] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['-_'] 键映射异常：预期结果_ -> 实际结果—— 
+[2021-12-03 16:29:37.166019] [INFO] [handle_keyboard.py] [key_mapping] [46] 布局：capslock布局
+[2021-12-03 16:56:20.611050] [INFO] [main_run.py] [run_mian] [28] 当前测试数据为《中文 字母》数据
+[2021-12-03 16:56:20.613847] [INFO] [handle_keyboard.py] [key_mapping] [18] 布局：基础布局
+[2021-12-03 16:56:21.127140] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['`~'] 键映射异常：预期结果` -> 实际结果M ` 
+[2021-12-03 16:56:42.691927] [INFO] [handle_keyboard.py] [key_mapping] [31] 布局：shift布局
+[2021-12-03 16:57:04.813718] [INFO] [handle_keyboard.py] [key_mapping] [46] 布局：capslock布局

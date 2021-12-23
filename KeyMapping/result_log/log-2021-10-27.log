@@ -1,0 +1,13 @@
+[2021-10-27 15:46:26.756041] [INFO] [main_run.py] [run_mian] [28] 当前测试数据为《捷克语》数据
+[2021-10-27 15:46:26.757874] [INFO] [handle_keyboard.py] [key_mapping] [18] 布局：基础布局
+[2021-10-27 15:46:32.918495] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['-_'] 键映射异常：预期结果= -> 实际结果- 
+[2021-10-27 15:46:33.432468] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['=+'] 键映射异常：预期结果´ -> 实际结果= 
+[2021-10-27 15:46:36.507697] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['y'] 键映射异常：预期结果z -> 实际结果y 
+[2021-10-27 15:46:46.326328] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['z'] 键映射异常：预期结果y -> 实际结果z 
+[2021-10-27 15:46:50.955237] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['/?'] 键映射异常：预期结果- -> 实际结果´
+[2021-10-27 15:46:52.971641] [INFO] [handle_keyboard.py] [key_mapping] [31] 布局：shift布局
+[2021-10-27 15:46:59.144146] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['-_'] 键映射异常：预期结果% -> 实际结果_ 
+[2021-10-27 15:46:59.659976] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['=+'] 键映射异常：预期结果ˇ -> 实际结果% 
+[2021-10-27 15:47:02.742968] [ERROR] [handle_keyboard.py] [get_txt] [197] 键盘['y'] 键映射异常：预期结果Z -> 实际结果Y 
+[2021-10-27 15:51:22.971012] [INFO] [main_run.py] [run_mian] [28] 当前测试数据为《韩语》数据
+[2021-10-27 15:51:22.972842] [INFO] [handle_keyboard.py] [key_mapping] [18] 布局：基础布局

@@ -1,0 +1,39 @@
+[2021-09-08 16:57:54.892198] [INFO] [main_run.py] [run_mian] [28] 当前测试数据为《捷克语》数据
+[2021-09-08 16:57:54.893226] [INFO] [handle_keyboard.py] [key_mapping] [18] 布局：基础布局
+[2021-09-08 16:58:21.107379] [INFO] [handle_keyboard.py] [key_mapping] [31] 布局：shift布局
+[2021-09-08 16:58:47.283919] [INFO] [handle_keyboard.py] [key_mapping] [46] 布局：capslock布局
+[2021-09-08 16:59:13.471205] [INFO] [handle_keyboard.py] [key_mapping] [68] 布局：右alt布局
+[2021-09-08 16:59:13.991607] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['1!'] 键映射异常：预期结果~ -> 实际结果 
+[2021-09-08 16:59:14.503981] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['2@'] 键映射异常：预期结果ˇ -> 实际结果 
+[2021-09-08 16:59:15.017298] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['3#'] 键映射异常：预期结果^ -> 实际结果 
+[2021-09-08 16:59:15.530028] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['4$'] 键映射异常：预期结果˘ -> 实际结果 
+[2021-09-08 16:59:16.041979] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['5%'] 键映射异常：预期结果° -> 实际结果 
+[2021-09-08 16:59:16.554234] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['6^'] 键映射异常：预期结果˛ -> 实际结果 
+[2021-09-08 16:59:17.069398] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['7&'] 键映射异常：预期结果` -> 实际结果 
+[2021-09-08 16:59:17.581901] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['8*'] 键映射异常：预期结果· -> 实际结果 
+[2021-09-08 16:59:18.094714] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['9('] 键映射异常：预期结果´ -> 实际结果 
+[2021-09-08 16:59:18.606758] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['0)'] 键映射异常：预期结果˝ -> 实际结果 
+[2021-09-08 16:59:19.122629] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['-_'] 键映射异常：预期结果¨ -> 实际结果 
+[2021-09-08 16:59:19.634953] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['=+'] 键映射异常：预期结果¸ -> 实际结果 
+[2021-09-08 16:59:20.152145] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['q'] 键映射异常：预期结果\ -> 实际结果 
+[2021-09-08 16:59:20.664158] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['w'] 键映射异常：预期结果| -> 实际结果 
+[2021-09-08 16:59:21.180068] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['e'] 键映射异常：预期结果€ -> 实际结果 
+[2021-09-08 16:59:21.693129] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['[{'] 键映射异常：预期结果÷ -> 实际结果 
+[2021-09-08 16:59:22.205497] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘[']}'] 键映射异常：预期结果× -> 实际结果 
+[2021-09-08 16:59:22.719253] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['|'] 键映射异常：预期结果¤ -> 实际结果 
+[2021-09-08 16:59:23.234346] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['s'] 键映射异常：预期结果đ -> 实际结果 
+[2021-09-08 16:59:23.747266] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['d'] 键映射异常：预期结果Đ -> 实际结果 
+[2021-09-08 16:59:24.262278] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['f'] 键映射异常：预期结果[ -> 实际结果 
+[2021-09-08 16:59:24.776316] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['g'] 键映射异常：预期结果] -> 实际结果 
+[2021-09-08 16:59:25.290752] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['k'] 键映射异常：预期结果ł -> 实际结果 
+[2021-09-08 16:59:25.803630] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['l'] 键映射异常：预期结果Ł -> 实际结果 
+[2021-09-08 16:59:26.316328] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘[';:'] 键映射异常：预期结果$ -> 实际结果 
+[2021-09-08 16:59:26.830113] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['’“'] 键映射异常：预期结果ß -> 实际结果 
+[2021-09-08 16:59:27.341165] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['x'] 键映射异常：预期结果# -> 实际结果 
+[2021-09-08 16:59:27.856979] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['c'] 键映射异常：预期结果& -> 实际结果 
+[2021-09-08 16:59:28.366760] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['v'] 键映射异常：预期结果@ -> 实际结果 
+[2021-09-08 16:59:28.883213] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['b'] 键映射异常：预期结果{ -> 实际结果 
+[2021-09-08 16:59:29.394895] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['n'] 键映射异常：预期结果} -> 实际结果 
+[2021-09-08 16:59:29.909307] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['，<'] 键映射异常：预期结果< -> 实际结果 
+[2021-09-08 16:59:30.425062] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['.>'] 键映射异常：预期结果> -> 实际结果 
+[2021-09-08 16:59:30.943441] [ERROR] [handle_keyboard.py] [get_txt] [198] 键盘['/?'] 键映射异常：预期结果* -> 实际结果 
