@@ -18,19 +18,19 @@ r_arch_mips="mips64"
 
 
 #填写x86下载链接
-d_link_x86="http://installer.sogou-inc.com/mirror_installer/ime_bs_linux/ime_bs_linux/0000/2.3.0/2708/wps-sogoupinyin-2.3.0.2708.zip"
+d_link_x86="http://"
 
 #填写arm deb下载链接
-d_link_arm="http://installer.sogou-inc.com/mirror_installer/ime_bs_linux/ime_bs_linux_arm64/0000/2.3.0/2281/wps-sogoupinyin-2.3.0.2281.zip"
+d_link_arm="http://"
 
 #填写mips deb下载链接
-d_link_mips="http://installer.sogou-inc.com/mirror_installer/ime_bs_linux/ime_bs_linux_mips64/0000/2.3.0/2280/sogouimebs-2.3.0.2280.zip"
+d_link_mips="http://"
 
 #填写mips rpm下载链接
-d_link_mips_rpm="http://installer.sogou-inc.com/mirror_installer/ime_bs_linux/ime_bs_linux_mips64_rpm/0000/2.3.0/2280/sogouimebs-2.3.0.2280.zip"
+d_link_mips_rpm="http://"
 
 #填写arm rpm下载链接
-d_link_arm_rpm="http://installer.sogou-inc.com/mirror_installer/ime_bs_linux/ime_bs_linux_arm64_rpm/0000/2.3.0/2279/sogouimebs-2.3.0.2279.zip"
+d_link_arm_rpm="http://"
 
 #获取x86安装包下载后的文件解压后的文件夹名
 b_name_x86=$(basename $d_link_x86 .zip)
