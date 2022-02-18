@@ -1,0 +1,11 @@
+sudo apt-get update
+sudo apt-get install python3-pip
+pip3 install pymouse
+pip3 install requests
+sudo apt-get install python-xlib， pymouse必须要xlib的支持
+pip3 install PyUserInput
+官网下载psutil安装
+pip3 install numpy
+pip3 install pyscreenshot
+sudo apt-get install xdotool
+pip3 install opencv-python

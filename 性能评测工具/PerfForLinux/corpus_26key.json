@@ -1,0 +1,13 @@
+{"word_num": 10,
+  "word_list": [
+    {"pinyin": "women", "expect_cand": "我们"},
+    {"pinyin": "chifan", "expect_cand": "吃饭"},
+    {"pinyin": "xuexi", "expect_cand": "学习"},
+    {"pinyin": "wenti", "expect_cand": "问题"},
+    {"pinyin": "bushi", "expect_cand": "不是"},
+    {"pinyin": "yinggai", "expect_cand": "应该"},
+    {"pinyin": "beijing", "expect_cand": "北京"},
+    {"pinyin": "shanghai", "expect_cand": "上海"},
+    {"pinyin": "meiyou", "expect_cand": "没有"},
+    {"pinyin": "youxi", "expect_cand": "游戏"}],
+  "keyboard_type": 26}

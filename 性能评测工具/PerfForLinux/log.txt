@@ -1,0 +1,2 @@
+sogou
+cand_display_on_screen_time_virtual: MIN: 15	MAX: 29	AVG: 21

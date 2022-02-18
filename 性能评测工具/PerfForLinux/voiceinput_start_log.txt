@@ -1,0 +1,3 @@
+sogou
+system_cold_start: MIN: 283	MAX: 283	AVG: 283
+system_hot_start: MIN: 262	MAX: 310	AVG: 286
