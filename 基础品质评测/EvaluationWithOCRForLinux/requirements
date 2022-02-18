@@ -1,0 +1,17 @@
+sudo apt install python3-tk ，这个库不是必须的
+sudo apt-get update
+sudo apt-get install python3-pip
+pip3 install pymouse
+pip3 install requests
+sudo apt-get install python-xlib， pymouse必须要xlib的支持
+pip3 install PyUserInput
+官网下载psutil安装
+pip3 install numpy
+pip3 install pyscreenshot
+sudo apt-get install xdotool
+pip3 install raven --upgrade
+
+
+下面两个库在ubuntu系统好用，其他系统的支持不是很友好，目前不用了
+sudo apt-get install python3-virtkey
+pip3 install dogtail

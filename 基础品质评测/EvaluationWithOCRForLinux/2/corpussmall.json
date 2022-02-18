@@ -1,0 +1,146 @@
+{
+	"word_num": 2918,
+	"word_list": [
+		{
+			"pinyin": "tianyan",
+			"expect_cand": "天眼"
+		},
+		{
+			"pinyin": "zhifu",
+			"expect_cand": "之父"
+		},
+		{
+			"pinyin": "yi",
+			"expect_cand": "一"
+		},
+		{
+			"pinyin": "#",
+			"expect_cand": ""
+		},
+		{
+			"pinyin": "dajidali",
+			"expect_cand": "大吉大利"
+		},
+		{
+			"pinyin": "jinwanchiji",
+			"expect_cand": "今晚吃鸡"
+		},
+		{
+			"pinyin": "#",
+			"expect_cand": ""
+		},
+		{
+			"pinyin": "#",
+			"expect_cand": ""
+		},
+		{
+			"pinyin": "wei",
+			"expect_cand": "喂"
+		},
+		{
+			"pinyin": "nihaoya",
+			"expect_cand": "你好呀"
+		},
+		{
+			"pinyin": "#",
+			"expect_cand": ""
+		},
+		{
+			"pinyin": "ha",
+			"expect_cand": "哈"
+		},
+		{
+			"pinyin": "*",
+			"expect_cand": ""
+		},
+		{
+			"pinyin": "*",
+			"expect_cand": ""
+		},
+		{
+			"pinyin": "nishibushichuqu",
+			"expect_cand": "你是不是出去"
+		},
+		{
+			"pinyin": "pao",
+			"expect_cand": "跑"
+		},
+		{
+			"pinyin": "*",
+			"expect_cand": ""
+		},
+		{
+			"pinyin": "wanle",
+			"expect_cand": "玩了"
+		},
+		{
+			"pinyin": "naninali",
+			"expect_cand": "那你哪里"
+		},
+		{
+			"pinyin": "xuede",
+			"expect_cand": "学的"
+		},
+		{
+			"pinyin": "choudidi",
+			"expect_cand": "臭弟弟"
+		},
+		{
+			"pinyin": "zhezjongci",
+			"expect_cand": "这种词"
+		},
+		{
+			"pinyin": "shin",
+			"expect_cand": "是你"
+		},
+		{
+			"pinyin": "*",
+			"expect_cand": ""
+		},
+		{
+			"pinyin": "gai",
+			"expect_cand": "该"
+		},
+		{
+			"pinyin": "nixuedema",
+			"expect_cand": "你学的吗"
+		},
+		{
+			"pinyin": "gaoqingchu",
+			"expect_cand": "搞清楚"
+		},
+		{
+			"pinyin": "zijide",
+			"expect_cand": "自己的"
+		},
+		{
+			"pinyin": "renshe",
+			"expect_cand": "人设"
+		},
+		{
+			"pinyin": "hao",
+			"expect_cand": "好"
+		},
+		{
+			"pinyin": "wa",
+			"expect_cand": "哇"
+		},
+		{
+			"pinyin": "chou",
+			"expect_cand": "臭"
+		},
+		{
+			"pinyin": "jiejie",
+			"expect_cand": "姐姐"
+		},
+		{
+			"pinyin": "hhhhhh",
+			"expect_cand": "哈哈哈哈哈哈"
+		},
+		{
+			"pinyin": "hende",
+			"expect_cand": "恨得"
+		}
+	],
+	"keyboard_type": 26
+}
