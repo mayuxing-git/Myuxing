@@ -21,19 +21,19 @@ echo "请手动填写要下载的支线：(develop,develop-2.1...)"
 read input
 
 #获取x86最新下载链接
-d_link_x86=`curl "http://build.sogou-inc.com/system_build/out_interface/common/getlastpackage.php?project=ime_bs_linux&class=ime_bs_linux&branch=$input"`
+d_link_x86=`curl "http://"`
 
 #获取arm deb最新下载链接
-d_link_arm=`curl "http://build.sogou-inc.com/system_build/out_interface/common/getlastpackage.php?project=ime_bs_linux&class=ime_bs_linux_arm64&branch=$input"`
+d_link_arm=`curl "http://"`
 
 #获取mips deb最新下载链接
-d_link_mips=`curl "http://build.sogou-inc.com/system_build/out_interface/common/getlastpackage.php?project=ime_bs_linux&class=ime_bs_linux_mips64&branch=$input"`
+d_link_mips=`curl "http://"`
 
 #获取mips rpm最新下载链接
-d_link_mips_rpm=`curl "http://build.sogou-inc.com/system_build/out_interface/common/getlastpackage.php?project=ime_bs_linux&class=ime_bs_linux_mips64_rpm&branch=$input"`
+d_link_mips_rpm=`curl "http://"`
 
 #获取arm rpm最新下载链接
-d_link_arm_rpm=`curl "http://build.sogou-inc.com/system_build/out_interface/common/getlastpackage.php?project=ime_bs_linux&class=ime_bs_linux_arm64_rpm&branch=$input"`
+d_link_arm_rpm=`curl "http://"`
 
 #获取x86安装包下载后的文件解压后的文件夹名
 b_name_x86=$(basename $d_link_x86 .zip)
