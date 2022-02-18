@@ -7,9 +7,9 @@ from interval import Interval
 from urllib.parse import urlencode
 
 headers = {
-    'Host' : 'oa.sogou-inc.com',
-    'Referer' : 'https://oa.sogou-inc.com/meeting/room-select/',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.81'
+    'Host' : '',
+    'Referer' : '',
+    'User-Agent': ''
 }
 
 #手动填写个人cookies
